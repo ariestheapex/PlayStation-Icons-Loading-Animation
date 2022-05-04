@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  background-color: #003791;
+}
+
+.image4k {
+  background-image: url('https://images.hdqwalls.com/wallpapers/minimal-sunset-landscape-4k-w5.jpg');
+  background-size: cover;
+}
+
+.loaded {
+  display: none;
+  font-family: 'Roboto', sans-serif;
+  font-size: 60px;
+  letter-spacing: 3px;
+  color: #fff;
+  text-transform: uppercase;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 100vh;
+}
+
+#container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+@keyframes rotationCycle {
+  0% { transform: rotate(-90deg) scale(0) }
+  40% { transform: rotate(0deg) scale(1) }
+  50% { transform: rotate(0deg) scale(1) }
+  100% { transform: rotate(90deg) scale(0) }
+}
+
+#container img {
+  animation-name: rotationCycle;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease;
+  height: 60px;
+  width: auto;
+  padding: 10px;
+}
+
+#container img:nth-child(2) { animation-delay: 200ms }
+#container img:nth-child(3) { animation-delay: 300ms }
+#container img:nth-child(4) { animation-delay: 400ms }
