@@ -6,11 +6,11 @@
 [![Fork this repo](https://badgen.net/github/forks/blank-yt/PlayStation-Icons-Loading-Animation)](https://GitHub.com/blank-yt/PlayStation-Icons-Loading-Animation/fork/)
 [![Releases](https://img.shields.io/github/downloads/blank-yt/PlayStation-Icons-Loading-Animation/total.svg)](https://github.com/blank-yt/PlayStation-Icons-Loading-Animation/archive/refs/tags/Release.zip)
 
-Status: [![Netlify Status](https://api.netlify.com/api/v1/badges/aa23f3ef-5092-42e1-bd5f-dee5e0b5d222/deploy-status)](https://velvety-profiterole-4044fd.netlify.app/) [`(Test it out here)`](https://velvety-profiterole-4044fd.netlify.app/)
+Status: [![success](https://user-images.githubusercontent.com/100468888/208658036-514215da-7838-44a9-8468-3a37e7e73b13.png)](https://blanksite.eu/preview/f2150887a6de4cdec15e38680a60518dfaad300f/) [`(Test it out here)`](https://blanksite.eu/preview/f2150887a6de4cdec15e38680a60518dfaad300f/)
 
 ## Getting Started
 - Either click `Code` (green button on the top of the repository) and then [`Download ZIP`](https://github.com/blank-yt/PlayStation-Icons-Loading-Animation/archive/refs/tags/Release.zip)
 - or [`Fork`](https://github.com/blank-yt/PlayStation-Icons-Loading-Animation/fork) it to your repository.
 
 ## Video
-[![Video](https://img.youtube.com/vi/1JXiMsTJeiY/0.jpg)](https://www.youtube.com/watch?v=1JXiMsTJeiY)
+<a href="https://www.youtube.com/watch?v=1JXiMsTJeiY"><img src="https://img.youtube.com/vi/1JXiMsTJeiY/maxresdefault.jpg" height="300" alt="Video not available yet"></a>
